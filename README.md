@@ -38,7 +38,7 @@ Fuji|Red
 Honeycrisp|Blush Red
 Golden Delicious|Yellow
 ```
-### With Where Clause
+### With 'Where' Clause
 
 ```bash
 $ node app/main.js sample.db "SELECT name, color FROM apples WHERE color = 'Yellow'"
