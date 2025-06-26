@@ -54,6 +54,7 @@ app/
   └── main.js       # Entry point for handling SELECT queries
 sample.db           # SQLite database to test on
 package.json
+package-lock.json
 
 ```
 
